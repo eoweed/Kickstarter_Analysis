@@ -31,16 +31,16 @@
 
 ## Results
 
-### From the analysis of outcomes based on launch date, we can conclude that the highest number of successful theater campaigns occurred in the month of May. Another conclusion is that relatively the same number of theater campaigns failed throughout the year, or in other words, there was no significant time of year when theater campaigns failed.
+#### From the analysis of outcomes based on launch date, we can conclude that the highest number of successful theater campaigns occurred in the month of May. Another conclusion is that relatively the same number of theater campaigns failed throughout the year, or in other words, there was no significant time of year when theater campaigns failed.
 
-### From the analysis of outcomes based on goals, one conclusion is that a higher percent of play campaigns were successful if the goal amount was less than $5,000. 
+#### From the analysis of outcomes based on goals, one conclusion is that a higher percent of play campaigns were successful if the goal amount was less than $5,000. 
 
-### There are a few limitations to this analysis. One limitation is that the Kickstarter data set represents many countries in the northern hemisphere. The results show that campaigns are more successful in May, however if we assume that is because it is in the Spring, then someone who wants to launch a campaign in the southern hemisphere may need to do it at another time. Another limitation is that the outcomes based on launch date are a sum of 9 years of data, so there may be variations in outcomes from year to year. If the pivot table is filtered to only show one year at a time, then in certain months there is zero data, and it may be difficult to predict the outcome unless we have more data.
+#### There are a few limitations to this analysis. One limitation is that the Kickstarter data set represents many countries in the northern hemisphere. The results show that campaigns are more successful in May, however if we assume that is because it is in the Spring, then someone who wants to launch a campaign in the southern hemisphere may need to do it at another time. Another limitation is that the outcomes based on launch date are a sum of 9 years of data, so there may be variations in outcomes from year to year. If the pivot table is filtered to only show one year at a time, then in certain months there is zero data, and it may be difficult to predict the outcome unless we have more data.
 
-### Future analysis could involve creating other tables and graphs and answering different questions. One possible graph could show outcomes based on goals for each month of the year. This would be similar to the current analysis, but could be filtered by each month to show what the outcomes were at a certain time. Another graph could show outcomes based on launch date for each country. This could help determine where the best location is to launch a campaign. 
+#### Future analysis could involve creating other tables and graphs and answering different questions. One possible graph could show outcomes based on goals for each month of the year. This would be similar to the current analysis, but could be filtered by each month to show what the outcomes were at a certain time. Another graph could show outcomes based on launch date for each country. This could help determine where the best location is to launch a campaign. 
 
 
 ## References
 
-### 1. Microsoft. (2022). *COUNTIFS function*. https://support.microsoft.com/en-us/office/countifs-function-dda3dc6e-f74e-4aee-88bc-aa8c2a866842?ns=excel&version=90&ui=en-us&rs=en-us&ad=us
+#### 1. Microsoft. (2022). *COUNTIFS function*. https://support.microsoft.com/en-us/office/countifs-function-dda3dc6e-f74e-4aee-88bc-aa8c2a866842?ns=excel&version=90&ui=en-us&rs=en-us&ad=us
 
