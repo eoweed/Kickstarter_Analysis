@@ -11,18 +11,18 @@
 
 #### I analyzed the outcomes of campaigns based on launch date by creating a pivot table to show the number of successful, failed, and canceled campaigns per each month of the year. Filters were applied to the pivot table to narrow the results to theater campaigns only. The pivot table was then used to create a line chart to visualize the outcomes over time. 
 
-#### ![](Outcomes_by_Launch_Date_PivotTable.png)
-#### ![](Theater_Outcomes_vs_Launch.png)
+#### ![Outcomes Based on Launch Date](https://github.com/eoweed/kickstarter-analysis/blob/main/Resources/Outcomes_by_Launch_Date_PivotTable.png)
+#### ![Theater_Outcomes_vs_Launch](https://github.com/eoweed/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
 #### Next, I analyzed the outcomes of play campaigns based on the goal funding amount by creating a new table from the data set. The table shows the number of successful, failed, and canceled campaigns within the play subcategory based on several different ranges of goal amounts. It shows the total number of projects for each range, and the percent of campaigns that were successful, failed, or canceled for each range. I used the COUNTIFS function (Microsoft, 2022) to calculate the number of campaigns based on outcome for each range, then calculated the total number of campaigns for each range, and calculated the percent of each outcome. 
 
-#### ![](Outcomes_Based_on_Goals.png)
+#### ![Outcomes Based on Goals](https://github.com/eoweed/kickstarter-analysis/blob/main/Resources/Outcomes_Based_on_Goals.png)
 
 #### A line graph was created from this new table to show the percent of campaigns that were successful, failed, or canceled based on goal amounts.
 
-#### ![](Outcomes_vs_Goal.png)
+#### ![Outcomes_vs_Goal](https://github.com/eoweed/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goal.png)
 
 ### Challenges and Difficulties Encountered
 
