@@ -39,6 +39,10 @@
 
 #### Future analysis could involve creating other tables and graphs and answering different questions. One possible graph could show outcomes based on goals for each month of the year. This would be similar to the current analysis, but could be filtered by each month to show what the outcomes were at a certain time. Another graph could show outcomes based on launch date for each country. This could help determine where the best location is to launch a campaign. 
 
+## Software
+
+#### Excel
+
 
 ## References
 
